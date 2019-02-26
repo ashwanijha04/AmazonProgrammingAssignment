@@ -7,7 +7,16 @@ In this project, we have replicated the functions of a bank by using the concept
 
 ## Requirements:
 	To run the code, you need to use python 3.
+	
 
+## Cloning and Running Immediately:
+	Use the following commands in your terminal.
+		#### cd Desktop
+		#### git clone https://github.com/ashwanijha04/AmazonProgrammingAssignment
+		
+	After the folder is downloaded,
+		#### cd AmazonProgrammingAssignment
+		#### python3 BankRunner.py
 
 
 ## Downloading and Installing Python:
