@@ -3,6 +3,17 @@ Programming Course-End Project: Banking Domain
 
 In this project, we have replicated the functions of a bank by using the concepts of object-oriented programming.
 
+# Note: This program uses Python 3 and this can only be run properly using the python3 command.
+# Please do not use Python 2.x or the string inputs will cause problems.
+
+
+## Downloading and Installing Python:
+	To install python 3 on a mac, we use the following command:
+		brew install python3
+		(Please do not use python 2)
+	
+	If brew is not already installed, we need to install it from here.
+
 
 
 ## Requirements:
@@ -11,19 +22,13 @@ In this project, we have replicated the functions of a bank by using the concept
 
 ## Cloning and Running Immediately:
 	Use the following commands in your terminal.
-		#### cd Desktop
-		#### git clone https://github.com/ashwanijha04/AmazonProgrammingAssignment
+		cd Desktop
+		git clone https://github.com/ashwanijha04/AmazonProgrammingAssignment
 		
 	After the folder is downloaded,
-		#### cd AmazonProgrammingAssignment
-		#### python3 BankRunner.py
+		cd AmazonProgrammingAssignment
+		python3 BankRunner.py
 
-
-## Downloading and Installing Python:
-	To install python 3 on a mac, we use the following command:
-		Brew install python3
-	
-	If brew is not already installed, we need to install it from here.
 
 ## Code Description:
 
